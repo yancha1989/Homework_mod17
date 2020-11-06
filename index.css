@@ -1,0 +1,165 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+
+body {
+    position: relative;
+    width: 1440px;
+    height: 2183px;
+
+background: #FFFFFF
+} 
+    
+header {
+    position: absolute;
+    width: 1440px;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    }    
+    
+.head-skilldrive{
+    font-family: 'Rubik', sans-serif;
+    position: absolute;
+    width: 115px;
+    height: 28px;
+    left: 40px;
+    top: 31px;
+
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #1B1B1B;
+}
+
+.elm-about {
+    position: absolute;
+width: 42px;
+height: 19px;
+right: 437px;
+top: 35px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #1B1B1B;
+}
+
+.elm-condition {
+position: absolute;
+width: 64px;
+height: 19px;
+right: 343px;
+top: 35px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #1B1B1B
+}
+
+.elm-question {
+    position: absolute;
+    width: 127px;
+    height: 19px;
+    right: 186px;
+    top: 35px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #1B1B1B   
+}
+
+.button {
+    position: absolute;
+right: 45px;
+top: 25px;
+
+
+font-family: Roboto;
+padding: 19px 46px;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #1B1B1B;
+}
+
+.img-head {
+    position: absolute;
+width: 397px;
+height: 300px;
+left: 522px;
+top: 170px;
+}
+
+.about {
+    position: absolute;
+height: 77px;
+left: 638px;
+top: 531px;
+
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+font-style: normal;
+font-size: 66px;
+line-height: 120%;
+
+/* identical to box height, or 77px */
+
+text-align: center;
+
+color: #1B1B1B;
+}
+
+.about-text {
+    position: absolute;
+width: 925px;
+height: 105px;
+left: 258px;
+top: 638px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 147.3%;
+
+text-align: center;
+
+color: #1B1B1B;
+}
+
+.contact-title {
+    position: absolute;
+width: 224px;
+height: 58px;
+left: 607px;
+top: 903px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 120%;
+
+
+text-align: center;
+
+color: #1B1B1B
+}
